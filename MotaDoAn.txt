@@ -1,0 +1,8 @@
+Phần mềm cho phép sinh viên có thể đăng ký học phần, xem chương trình khung, xem lịch học sau khi đăng ký, 
+xem công nợ, xem thông tin cá nhân
+
+Phần mềm cho phép nhân viên có thể quản lý thêm sửa xóa các thông tin:
+- Khoa, chuyên ngành, sinh viên, giảng viên, môn học phần, lớp học phần, năm học, học kỳ, phòng học
+- Xử lý các thông tin: chia chuyên ngành cho sinh viên, xếp lịch học, chương trình khung.
+- Thống kê một số thông tin và in ra file excel
+- Tìm kiếm các thông tin về sinh viên, giảng viên.
